@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DoxySettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SettingsFile>D:\_Moje_Dokumenty_\__temp__2022__\artykul\SPI-1Wire-article\oprogramowanie\FreeRTOS_TestApp\doxySettings.xml</SettingsFile>
+  <ProjectName>test_app_m32</ProjectName>
+  <DoxyExePath>C:\Program Files\doxygen\bin\doxygen.exe</DoxyExePath>
+  <UseDefaultSettings>true</UseDefaultSettings>
+  <GenerateAsPartOfBuild>false</GenerateAsPartOfBuild>
+  <ConfigFilePath>D:\_Moje_Dokumenty_\__temp__2022__\artykul\SPI-1Wire-article\oprogramowanie\FreeRTOS_TestApp\doxyfile</ConfigFilePath>
+  <OutputDirPath>D:\_Moje_Dokumenty_\__temp__2022__\artykul\SPI-1Wire-article\oprogramowanie\FreeRTOS_TestApp\doxygen</OutputDirPath>
+  <Excluded>D:\_Moje_Dokumenty_\__temp__2022__\artykul\SPI-1Wire-article\oprogramowanie\FreeRTOS_TestApp\Source\include\croutine.h</Excluded>
+  <Excluded>D:\_Moje_Dokumenty_\__temp__2022__\artykul\SPI-1Wire-article\oprogramowanie\FreeRTOS_TestApp\Source\include\FreeRTOS.h</Excluded>
+  <Excluded>D:\_Moje_Dokumenty_\__temp__2022__\artykul\SPI-1Wire-article\oprogramowanie\FreeRTOS_TestApp\Source\include\list.h</Excluded>
+  <Excluded>D:\_Moje_Dokumenty_\__temp__2022__\artykul\SPI-1Wire-article\oprogramowanie\FreeRTOS_TestApp\Source\include\mpu_wrappers.h</Excluded>
+  <Excluded>D:\_Moje_Dokumenty_\__temp__2022__\artykul\SPI-1Wire-article\oprogramowanie\FreeRTOS_TestApp\Source\include\portable.h</Excluded>
+  <Excluded>D:\_Moje_Dokumenty_\__temp__2022__\artykul\SPI-1Wire-article\oprogramowanie\FreeRTOS_TestApp\Source\include\projdefs.h</Excluded>
+  <Excluded>D:\_Moje_Dokumenty_\__temp__2022__\artykul\SPI-1Wire-article\oprogramowanie\FreeRTOS_TestApp\Source\include\queue.h</Excluded>
+  <Excluded>D:\_Moje_Dokumenty_\__temp__2022__\artykul\SPI-1Wire-article\oprogramowanie\FreeRTOS_TestApp\Source\include\semphr.h</Excluded>
+  <Excluded>D:\_Moje_Dokumenty_\__temp__2022__\artykul\SPI-1Wire-article\oprogramowanie\FreeRTOS_TestApp\Source\include\StackMacros.h</Excluded>
+  <Excluded>D:\_Moje_Dokumenty_\__temp__2022__\artykul\SPI-1Wire-article\oprogramowanie\FreeRTOS_TestApp\Source\include\task.h</Excluded>
+  <Excluded>D:\_Moje_Dokumenty_\__temp__2022__\artykul\SPI-1Wire-article\oprogramowanie\FreeRTOS_TestApp\Source\include\timers.h</Excluded>
+  <Excluded>D:\_Moje_Dokumenty_\__temp__2022__\artykul\SPI-1Wire-article\oprogramowanie\FreeRTOS_TestApp\Source\portable\MemMang\heap_1.c</Excluded>
+  <Excluded>D:\_Moje_Dokumenty_\__temp__2022__\artykul\SPI-1Wire-article\oprogramowanie\FreeRTOS_TestApp\Source\portable\port.c</Excluded>
+  <Excluded>D:\_Moje_Dokumenty_\__temp__2022__\artykul\SPI-1Wire-article\oprogramowanie\FreeRTOS_TestApp\Source\portable\portmacro.h</Excluded>
+  <Excluded>D:\_Moje_Dokumenty_\__temp__2022__\artykul\SPI-1Wire-article\oprogramowanie\FreeRTOS_TestApp\Source\croutine.c</Excluded>
+  <Excluded>D:\_Moje_Dokumenty_\__temp__2022__\artykul\SPI-1Wire-article\oprogramowanie\FreeRTOS_TestApp\Source\list.c</Excluded>
+  <Excluded>D:\_Moje_Dokumenty_\__temp__2022__\artykul\SPI-1Wire-article\oprogramowanie\FreeRTOS_TestApp\Source\queue.c</Excluded>
+  <Excluded>D:\_Moje_Dokumenty_\__temp__2022__\artykul\SPI-1Wire-article\oprogramowanie\FreeRTOS_TestApp\Source\tasks.c</Excluded>
+  <Excluded>D:\_Moje_Dokumenty_\__temp__2022__\artykul\SPI-1Wire-article\oprogramowanie\FreeRTOS_TestApp\Source\timers.c</Excluded>
+  <Excluded>D:\_Moje_Dokumenty_\__temp__2022__\artykul\SPI-1Wire-article\oprogramowanie\FreeRTOS_TestApp\FreeRTOSConfig.h</Excluded>
+  <Excluded>D:\_Moje_Dokumenty_\__temp__2022__\artykul\SPI-1Wire-article\oprogramowanie\FreeRTOS_TestApp\lcd.c</Excluded>
+  <Excluded>D:\_Moje_Dokumenty_\__temp__2022__\artykul\SPI-1Wire-article\oprogramowanie\FreeRTOS_TestApp\main.c</Excluded>
+  <Excluded>D:\_Moje_Dokumenty_\__temp__2022__\artykul\SPI-1Wire-article\oprogramowanie\FreeRTOS_TestApp\pcf8574.c</Excluded>
+  <Excluded>D:\_Moje_Dokumenty_\__temp__2022__\artykul\SPI-1Wire-article\oprogramowanie\FreeRTOS_TestApp\spi1wire.c</Excluded>
+  <Excluded>D:\_Moje_Dokumenty_\__temp__2022__\artykul\SPI-1Wire-article\oprogramowanie\FreeRTOS_TestApp\twi.c</Excluded>
+  <ShowErrorsAndWarnings>false</ShowErrorsAndWarnings>
+</DoxySettings>
